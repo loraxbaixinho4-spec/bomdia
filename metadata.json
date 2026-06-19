@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot de Sustentabilidade e Tecnologia",
+  "description": "Chatbot de sustentabilidade e tecnologia com dicas de reciclagem, dados ambientais em tempo real, metas de impacto em tempo real, acompanhamento de metas regionais e gamificação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
